@@ -1,0 +1,3 @@
+[submodule "hook_injector/external/Detours"]
+	path = hook_injector/external/Detours
+	url = https://github.com/microsoft/Detours.git
